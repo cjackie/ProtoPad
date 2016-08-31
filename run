@@ -1,0 +1,5 @@
+#! /bin/bash
+
+beefy=../node_modules/beefy/bin/beefy
+
+cd www && $beefy --live
