@@ -1,0 +1,30 @@
+{
+  "name": "protopad",
+  "version": "1.0.0",
+  "description": "for quickly prototyping a web ui components",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.14.0",
+    "beefy": "^2.1.8",
+    "browserify": "^13.1.0",
+    "events": "^1.1.1",
+    "flux": "^2.1.1",
+    "object-assign": "^4.1.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjackie/ProtoPad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjackie/ProtoPad/issues"
+  },
+  "homepage": "https://github.com/cjackie/ProtoPad#readme"
+}
